@@ -7,7 +7,7 @@ const BASE_MANIFEST = {
 	name: 'Forge Steel',
 	short_name: 'Forge Steel',
 	description: 'Heroes, monsters, encounters ... everything you need for Draw Steel.',
-	start_url: '/forgesteel/',
+	start_url: '/',
 	display: 'standalone',
 	background_color: '#ffffff',
 	theme_color: '#1890ff',
